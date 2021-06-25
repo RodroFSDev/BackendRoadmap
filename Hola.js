@@ -1,1 +1,1 @@
-Hola mundito
+console.log("Hola mundo");
